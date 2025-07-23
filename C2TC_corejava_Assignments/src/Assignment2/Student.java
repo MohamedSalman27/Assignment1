@@ -1,5 +1,11 @@
 package Assignment2;
 
-public class Student {
 
+public class Student {
+    // Default constructor
+    public Student() {
+        System.out.println("Student object is created");
+    }
+
+    // (Optional) You can add fields or methods as needed
 }

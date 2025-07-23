@@ -2,7 +2,7 @@ package Assignment2;
 
 import java.util.Scanner;
 
-public class Commission {
+public class Commision {
     // Data Members
     private String name;
     private String address;
@@ -55,7 +55,7 @@ public class Commission {
 
     // Main method to test Commission class
     public static void main(String[] args) {
-        Commission emp = new Commission();
+        Commision emp = new Commision();
         emp.acceptDetails();
         emp.displayInfo();
     }

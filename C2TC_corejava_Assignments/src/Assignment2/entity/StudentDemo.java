@@ -1,4 +1,4 @@
-package Assignment2;
+package Assignment2.entity;
 
 public class StudentDemo {
     public static void main(String[] args) {

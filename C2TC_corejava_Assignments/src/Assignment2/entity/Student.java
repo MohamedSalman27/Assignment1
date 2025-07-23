@@ -1,5 +1,4 @@
-package Assignment2;
-
+package Assignment2.entity;
 
 public class Student {
     // Default constructor
